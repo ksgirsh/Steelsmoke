@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 7d182bf2fd7182845ae3f5175ff8b041
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2051971733582871880
+    second: sentCenterKunaiBrandishSheet_0
+  - first:
+      213: -8389720332067393140
+    second: sentCenterKunaiBrandishSheet_1
+  - first:
+      213: 3652562290838367182
+    second: sentCenterKunaiBrandishSheet_2
+  - first:
+      213: 4911024735191257898
+    second: sentCenterKunaiBrandishSheet_3
+  - first:
+      213: -380591890027705550
+    second: sentCenterKunaiBrandishSheet_4
+  - first:
+      213: 3215453106643890040
+    second: sentCenterKunaiBrandishSheet_5
+  - first:
+      213: 5671286147490509837
+    second: sentCenterKunaiBrandishSheet_6
+  - first:
+      213: 5419915070892228343
+    second: sentCenterKunaiBrandishSheet_7
+  - first:
+      213: -5466747692835584987
+    second: sentCenterKunaiBrandishSheet_8
+  - first:
+      213: 8439819315716899803
+    second: sentCenterKunaiBrandishSheet_9
+  - first:
+      213: 5749103250220082086
+    second: sentCenterKunaiBrandishSheet_10
+  - first:
+      213: 4813221330920401804
+    second: sentCenterKunaiBrandishSheet_11
+  - first:
+      213: -6170881486327717980
+    second: sentCenterKunaiBrandishSheet_12
+  - first:
+      213: 8795902735875558125
+    second: sentCenterKunaiBrandishSheet_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sentCenterKunaiBrandishSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 120
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d795d7b611a7c10800000000000000
+      internalID: 2051971733582871880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentCenterKunaiBrandishSheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 120
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8130420fc9b19b80800000000000000
+      internalID: -8389720332067393140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentCenterKunaiBrandishSheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 120
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb68692d0280b230800000000000000
+      internalID: 3652562290838367182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentCenterKunaiBrandishSheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 120
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a235b381af6772440800000000000000
+      internalID: 4911024735191257898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentCenterKunaiBrandishSheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 120
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b018641bdd7baf0800000000000000
+      internalID: -380591890027705550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentCenterKunaiBrandishSheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 120
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f6f6570959f9c20800000000000000
+      internalID: 3215453106643890040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentCenterKunaiBrandishSheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 120
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04f3c014b474be40800000000000000
+      internalID: 5671286147490509837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentCenterKunaiBrandishSheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 120
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe31518a08673b40800000000000000
+      internalID: 5419915070892228343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentCenterKunaiBrandishSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 120
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52449dbffe53224b0800000000000000
+      internalID: -5466747692835584987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentCenterKunaiBrandishSheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 120
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd349c993f2402570800000000000000
+      internalID: 8439819315716899803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentCenterKunaiBrandishSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 120
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3696e22fae8cf40800000000000000
+      internalID: 5749103250220082086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentCenterKunaiBrandishSheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 120
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8be7d68c4ffbc240800000000000000
+      internalID: 4813221330920401804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentCenterKunaiBrandishSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 120
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afd660abff9c5aa0800000000000000
+      internalID: -6170881486327717980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sentCenterKunaiBrandishSheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deacfb28fe2511a70800000000000000
+      internalID: 8795902735875558125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: df7542ff2df5c4841b3ba72857b0b2e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":120.0,"y":54.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      sentCenterKunaiBrandishSheet_0: 2051971733582871880
+      sentCenterKunaiBrandishSheet_1: -8389720332067393140
+      sentCenterKunaiBrandishSheet_10: 5749103250220082086
+      sentCenterKunaiBrandishSheet_11: 4813221330920401804
+      sentCenterKunaiBrandishSheet_12: -6170881486327717980
+      sentCenterKunaiBrandishSheet_13: 8795902735875558125
+      sentCenterKunaiBrandishSheet_2: 3652562290838367182
+      sentCenterKunaiBrandishSheet_3: 4911024735191257898
+      sentCenterKunaiBrandishSheet_4: -380591890027705550
+      sentCenterKunaiBrandishSheet_5: 3215453106643890040
+      sentCenterKunaiBrandishSheet_6: 5671286147490509837
+      sentCenterKunaiBrandishSheet_7: 5419915070892228343
+      sentCenterKunaiBrandishSheet_8: -5466747692835584987
+      sentCenterKunaiBrandishSheet_9: 8439819315716899803
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - BackgroundElement
+  - FuelDepletion
+  - Inspectable
+  - Room
+  - MainCanvas
+  - Level
+  - Hazard
+  - Parrier
+  - EnemyParriable
+  - Health
+  - Checkpoint
+  - Enemy
+  - MedallionPickup
+  - MovingPlat
+  - GasCan
+  - Mattress
+  - HazardFade
+  - ZipHead
+  - Collectible
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Level
+  - Enemy
+  - Ground
+  - InspText
+  - Inspectable
+  - Terrain
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 166916001
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default

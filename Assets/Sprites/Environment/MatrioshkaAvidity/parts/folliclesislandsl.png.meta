@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 91993fe7b20173c44bcfd6dfe267a659
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3454488662895885936
+    second: folliclesislandsl_0
+  - first:
+      213: 4898231324234529026
+    second: folliclesislandsl_1
+  - first:
+      213: -6025160758446950241
+    second: folliclesislandsl_2
+  - first:
+      213: 7622630327381546598
+    second: folliclesislandsl_3
+  - first:
+      213: 997134358506477897
+    second: folliclesislandsl_4
+  - first:
+      213: -2350541080281616937
+    second: folliclesislandsl_5
+  - first:
+      213: 2203372712357937495
+    second: folliclesislandsl_6
+  - first:
+      213: -2166671053209591598
+    second: folliclesislandsl_7
+  - first:
+      213: -6815395635400204783
+    second: folliclesislandsl_8
+  - first:
+      213: -1478242532987234071
+    second: folliclesislandsl_9
+  - first:
+      213: 1582180507203853768
+    second: folliclesislandsl_10
+  - first:
+      213: -5181853306843223795
+    second: folliclesislandsl_11
+  - first:
+      213: 8194725086576562158
+    second: folliclesislandsl_12
+  - first:
+      213: 1772236210585639537
+    second: folliclesislandsl_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: folliclesislandsl_0
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 265
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0910a7f1dd03f00d0800000000000000
+      internalID: -3454488662895885936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folliclesislandsl_1
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 84
+        width: 58
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209b0bcff630af340800000000000000
+      internalID: 4898231324234529026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folliclesislandsl_2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 78
+        width: 57
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98752e7634526ca0800000000000000
+      internalID: -6025160758446950241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folliclesislandsl_3
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 217
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66652b575e509c960800000000000000
+      internalID: 7622630327381546598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folliclesislandsl_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 209
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9499d108a6886dd00800000000000000
+      internalID: 997134358506477897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folliclesislandsl_5
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 74
+        width: 54
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dde9d75753316fd0800000000000000
+      internalID: -2350541080281616937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folliclesislandsl_6
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 80
+        width: 21
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75142e3dec3f39e10800000000000000
+      internalID: 2203372712357937495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folliclesislandsl_7
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 69
+        width: 45
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0225818207ee1e0800000000000000
+      internalID: -2166671053209591598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folliclesislandsl_8
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 85
+        width: 34
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e193477c9da61a0800000000000000
+      internalID: -6815395635400204783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folliclesislandsl_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 150
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e81c619f3a3c7be0800000000000000
+      internalID: -1478242532987234071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folliclesislandsl_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 70
+        width: 23
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdde6ed9c805f510800000000000000
+      internalID: 1582180507203853768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folliclesislandsl_11
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 87
+        width: 12
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d092d6f3fdb5618b0800000000000000
+      internalID: -5181853306843223795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folliclesislandsl_12
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 72
+        width: 13
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefc0697c0389b170800000000000000
+      internalID: 8194725086576562158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folliclesislandsl_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 5
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a9a0e917f389810800000000000000
+      internalID: 1772236210585639537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      folliclesislandsl_0: -3454488662895885936
+      folliclesislandsl_1: 4898231324234529026
+      folliclesislandsl_10: 1582180507203853768
+      folliclesislandsl_11: -5181853306843223795
+      folliclesislandsl_12: 8194725086576562158
+      folliclesislandsl_13: 1772236210585639537
+      folliclesislandsl_2: -6025160758446950241
+      folliclesislandsl_3: 7622630327381546598
+      folliclesislandsl_4: 997134358506477897
+      folliclesislandsl_5: -2350541080281616937
+      folliclesislandsl_6: 2203372712357937495
+      folliclesislandsl_7: -2166671053209591598
+      folliclesislandsl_8: -6815395635400204783
+      folliclesislandsl_9: -1478242532987234071
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
