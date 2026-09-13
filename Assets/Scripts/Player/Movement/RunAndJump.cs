@@ -325,21 +325,23 @@ public class RunAndJump : MonoBehaviour
                     if (setPower <= 0 && Mathf.Sign(setPower) != dir)
                     {
                         currentPower = Mathf.Lerp(setPower, Power + ult.speedBoost, pressDuration / lerpSpeed);
-                        //NEGATIVE MOVE
+                        //NEGATIVE MOVE, reversing direction
                     }
                     else if (setPower > 0 && Mathf.Sign(setPower) != dir)
                     {
                         currentPower = Mathf.Lerp(-setPower, Power + ult.speedBoost, pressDuration / lerpSpeed);
-
+                        //Positive move, reversing direction
                     }
                     else
                     {
-                        currentPower = Mathf.Abs(Mathf.Lerp(currentPower, Power + ult.speedBoost, pressDuration / lerpSpeed));
+                        currentPower = Mathf.Lerp(currentPower, (Power + ult.speedBoost), pressDuration / lerpSpeed);
+                        Debug.Log("Same Direction Same Move- Current Power: " +currentPower * Time.deltaTime * moving);
+                        //same direction same move
                     }
 
 
                     rb.linearVelocity = new Vector2(currentPower * Time.deltaTime * moving, rb.linearVelocity.y);
-
+                   
                 }
 
 
@@ -467,7 +469,7 @@ public class RunAndJump : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
             rb.gravityScale = 0f;
             StartCoroutine(ForceEffect(transform.right * transform.localScale.x, 1f));
-
+            
             anim.CrossFade("RustburnSide", 0, 0);
 
             yield return new WaitForSeconds(0.2f);
@@ -587,14 +589,16 @@ public class RunAndJump : MonoBehaviour
         
         if (Mathf.Sign(rb.linearVelocity.x) == Mathf.Sign(this.transform.localScale.x))
         {
-            //same dir same move
+            //same dir same move, make sure setPower's sign matches player direction
+            //otherwise weird things happen in the Running Clause (lines 305 - 345)
+            setPower *= Mathf.Sign(dir.x);
             currentPower += Mathf.Abs(a * Mathf.Cos(angle) * factor);
 
         } else
         {
-            setPower += Mathf.Abs(a * Mathf.Cos(angle) * factor);
+            setPower += (a * Mathf.Cos(angle) * factor);
         }
-
+        
         pressDuration = 0;
         
         if (lerpId == null)
@@ -678,14 +682,6 @@ public class RunAndJump : MonoBehaviour
             SaveValues();
         }
 
-
-        if (coll.gameObject.tag == "GasCan" && coll.gameObject.GetComponent<ItemFloat>().usable == true) 
-        {
-           // Debug.Log(coll.gameObject.GetComponent<ItemFloat>().usable);
-            medalAnim.SetBool("Charged", true);
-           
-        }
-
         
     }
 
@@ -742,7 +738,8 @@ public class RunAndJump : MonoBehaviour
             float normalizedTime = t / duration;
             
             lerpSpeed = Mathf.Lerp(2, 0.2f, normalizedTime);
-            setPower = Mathf.Lerp(knockBackFactor, 0, normalizedTime * 2);
+            //earlier i had the t value as "normalized time * 2". why???
+            setPower = Mathf.Lerp(knockBackFactor, 0, normalizedTime);
 
             yield return null;
         }
